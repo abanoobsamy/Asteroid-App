@@ -9,8 +9,8 @@ android {
         applicationId "com.bob.asteroid"
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 21
-        versionName "1.3"
+        versionCode 22
+        versionName "1.0"
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
