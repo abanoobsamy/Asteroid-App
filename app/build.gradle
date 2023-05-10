@@ -6,7 +6,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.bob.asteroid"
+        applicationId "com.bebo.asteroid_game"
         minSdkVersion 16
         targetSdkVersion 33
         versionCode 22
